@@ -1,0 +1,3 @@
+https://tradingeconomics.com/north-korea/gdp north korea #gdp total
+https://data.un.org/en/iso/kp.html north korea gdp per capita & https://www.worldometers.info/gdp/north-korea-gdp/
+https://www.worldometers.info/fr/pib/erythree-pib/ eritrea # gdp total  et par habitant
