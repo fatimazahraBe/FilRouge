@@ -1,15 +1,15 @@
-# Analyse des Prix Alimentaires Mondiaux (2015–2025)
+# Analyse des Prix Alimentaires Mondiaux (2015–2024)
 
 ## Description du Projet
 
-Ce projet vise à analyser les déterminants économiques, climatiques et agricoles de l’évolution des prix alimentaires mondiaux entre 2015 et 2025.
+Ce projet vise à analyser les déterminants économiques, climatiques et agricoles de l’évolution des prix alimentaires mondiaux entre 2015 et 2024.
 
 L’objectif principal est d’identifier les facteurs les plus influents expliquant la fluctuation des prix alimentaires à l’échelle mondiale, à travers une approche basée sur l’analyse de données, la modélisation statistique et la visualisation interactive.
 
 
 ## Problématique
 
-Quels sont les principaux facteurs économiques et climatiques qui influencent l’évolution des prix alimentaires mondiaux entre 2015 et 2025 ?
+Quels sont les principaux facteurs économiques et climatiques qui influencent l’évolution des prix alimentaires mondiaux entre 2015 et 2024 ?
 
 ## Objectifs
 
